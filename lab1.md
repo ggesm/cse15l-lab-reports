@@ -9,10 +9,10 @@ Remotely Connecting
   2. Launch VScode and open a terminal (Ctrl or Command + `, or use the Terminal -> New Terminal menu option)
   3. After type in “ssh cs15lsp23zz@ieng6.ucsd.edu” and replace the zz with the letters in specific CSE 15L account
   4. After you connect you will get a message that says 
-      ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
-      The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
-      RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-      Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+      <p> ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu <br>
+      The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. <br>
+      RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. <br>
+      Are you sure you want to continue connecting (yes/no/[fingerprint])? <p>
   **Make sure to type in yes**
   5. After you type in Yes, a new line that says “Password: “ will appear and you will input the 
      password for your CSE 15L (Note: when type in your password it won’t show any characters moving 
