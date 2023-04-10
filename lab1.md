@@ -24,9 +24,9 @@ Remotely Connecting
      to a computer in the CSE basement and any commands you run will run on that computer!
      ![Image](login.png)
   
-  Trying Some Commands!
-  Since you’re connected you can now try out some commands
-  Here are some specific useful commands to try:
+  Trying Some Commands! <br>
+  Since you’re connected you can now try out some commands <br>
+  Here are some specific useful commands to try: <br>
     cd ~ <br>
     cd <br>
     ls -lat <br>
