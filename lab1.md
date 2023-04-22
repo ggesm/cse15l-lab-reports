@@ -9,7 +9,7 @@
   1. Find your CSE 15L account (if you don’t know it) with the Account Lookup at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) and you should enter in your UCSD username and PID to find your account 
   ![Image](AL.png) <br>
   
-  2. Once you've gotten the username for your account to reset your password, just click on your CSE 15L account username and you should be able to reset your password with this ![Image](passowrd.png) 
+  2. Once you've gotten the username for your account to reset your password, just click on your CSE 15L account username and you should be able to reset your password with this ![Image](password.png) 
   3. Launch VScode and open a terminal (Ctrl or Command + `, or use the Terminal -> New Terminal menu option)
   4. After type in “ssh cs15lsp23zz@ieng6.ucsd.edu” and replace the zz with the letters in specific CSE 15L account
   5. After you connect you will get a message that says 
