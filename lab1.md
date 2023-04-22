@@ -12,7 +12,7 @@
   2. Once you've gotten the username for your account to reset your password, just click on your CSE 15L account username and you should be able to reset your password with this ![Image](password.png) 
   3. Launch VScode and open a terminal (Ctrl or Command + `, or use the Terminal -> New Terminal menu option)
   4. After type in “ssh cs15lsp23zz@ieng6.ucsd.edu” and replace the zz with the letters in specific CSE 15L account <br>
-  <Mark>ssh cs15lsp23zz@ieng6.ucsd.edu</Mark>
+      <Mark>ssh cs15lsp23zz@ieng6.ucsd.edu</Mark>
   6. After you connect you will get a message that says 
       <p> ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu <br>
       The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. <br>
