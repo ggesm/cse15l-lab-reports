@@ -1,12 +1,12 @@
-Installing VScode
+**Installing VScode**
   1. Go to [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
   ![Image](VSCode_Download.png)
   2. Install it for your OS
   3. When open it, it should look like this
   ![Image](VScode.png)
   
-Remotely Connecting
-  1. Find your CSE 15L account (if you don’t know it) with the Account Lookup at https://sdacs.ucsd.edu/~icc/index.php and reset your password if you need to
+**Remotely Connecting**
+  1. Find your CSE 15L account (if you don’t know it) with the Account Lookup at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) and reset your password if you need to
   2. Launch VScode and open a terminal (Ctrl or Command + `, or use the Terminal -> New Terminal menu option)
   3. After type in “ssh cs15lsp23zz@ieng6.ucsd.edu” and replace the zz with the letters in specific CSE 15L account
   4. After you connect you will get a message that says 
