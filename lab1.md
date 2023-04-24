@@ -60,9 +60,9 @@
       ieng6-201   23:25:01   0  0.08,  0.17,  0.11
       ieng6-202   23:25:01   1  0.09,  0.15,  0.11
       ieng6-203   23:25:01   1  0.08,  0.15,  0.11
-      ```
 
-Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
+      Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
+      ```
 
   
   Trying Some Commands! <br>
