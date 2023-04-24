@@ -87,7 +87,7 @@
   In this example I first ran ```ls -lat``` <br>
   
   ```console
-  [cs15lsp23fw@ieng6-201]:~:41$ ls -lat
+  [cs15lsp23fw@ieng6-202]:~:18$ ls -lat
   ```
   <br> 
   which resulted in 
@@ -118,6 +118,23 @@
   -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23   975 Apr  5 17:10 .bash_profile
   ```
   <br> What ```ls -lat``` does is _____
+  
+  Then I ran ```ls -a```
+  
+  ```console
+  [cs15lsp23fw@ieng6-202]:~:42$ ls -a
+  ```
+  <br> which resulted in
+  
+  ```console
+  .   .bash_history  .bashrc  .config  .kshrc  .locallogin  .modulesbegenv  .pki         .profile   .zshenv  hello  wavelet
+  ..  .bash_profile  .cache   .cshrc   .local  .login       .motd           .procmailrc  .zprofile  .zshrc   perl5
+  ```
+  <br> What this does is ____
+  
+  
+  
+  
   
   
  
