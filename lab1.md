@@ -16,7 +16,7 @@
   ```
   or use the Terminal -> New Terminal menu option <br>
   4. After type in “ssh cs15lsp23zz@ieng6.ucsd.edu” and replace the zz with the letters in specific CSE 15L account 
-  It should look like this bellow <br>
+  It should look like this below <br>
       ```console
       $ ssh cs15lsp23zz@ieng6.ucsd.edu
       ```
@@ -29,7 +29,7 @@
       RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
       Are you sure you want to continue connecting (yes/no/[fingerprint])?
       ```
-  Make sure to type in yes <br>
+  Make sure to type in **yes** <br>
         <br>
         
         
