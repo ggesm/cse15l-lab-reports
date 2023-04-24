@@ -20,7 +20,7 @@
       ```
 <br>
 
-  6. After you connect you will get a message that says 
+  5. After you connect you will get a message that says 
       ```console
       ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
       The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. 
@@ -29,6 +29,8 @@
       ```
   Make sure to type in yes <br>
         <br>
+        
+        
       ```console
       # On your client
       ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
@@ -36,11 +38,10 @@
       RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
       Are you sure you want to continue connecting (yes/no/[fingerprint])? 
       Password:
-      
       ```
   5. After you type in Yes, a new line that says “Password: “ will appear and you will input the 
-     password for your CSE 15L (Note: when type in your password it won’t show any characters moving 
-     for security reasons, so you can still type your password in and hit enter) If your password isn’t 
+     password for your CSE 15L <br> (Note: when type in your password it won’t show any characters moving 
+     for security reasons, so you can still type your password in and hit enter) <br> If your password isn’t 
      working then you should try to reset your password and see if that fixes the issue. <br>
       
   6. When you successfully input your password this should show up (below) and now your terminal is connected 
