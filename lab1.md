@@ -114,9 +114,10 @@
   -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23   155 Apr  5 17:10 .bashrc
   -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  1692 Apr  5 17:10 .bash_profile
   ```
-  <br> What ```ls -lat``` does is lists the files and directories in the current working directory in a long format, sorted by modification time, with the most recently modified files or directories appearing first.
+  <br> 
+  What ```ls -lat``` does is lists the files and directories in the current working directory in a long format, sorted by modification time, with the most recently modified files or directories appearing first.
   
-  Then I ran ```ls -a```
+  After I ran ```ls -a```
   
   ```console
   [cs15lsp23fw@ieng6-202]:~:42$ ls -a
@@ -127,7 +128,9 @@
   .   .bash_history  .bashrc  .config  .kshrc  .locallogin  .modulesbegenv  .pki         .profile   .zshenv  hello  wavelet
   ..  .bash_profile  .cache   .cshrc   .local  .login       .motd           .procmailrc  .zprofile  .zshrc   perl5
   ```
-  <br> What this does is ____
+  <br> What this does is lists all files and directories, including hidden ones, in the current working directory.
+  
+  
   
   
   
