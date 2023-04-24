@@ -5,6 +5,8 @@
   3. When open it, it should look like this
   ![Image](VScode.png)
   
+  <span style="color:red">some **This is Red Bold.** text</span>
+  
 **Remotely Connecting**
   1. Find your CSE 15L account (if you don’t know it) with the Account Lookup at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php) and you should enter in your UCSD username and PID to find your account 
   ![Image](AL.png) <br>
