@@ -101,7 +101,7 @@
   drwxr-sr-x   2 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 perl5
   drwxr-sr-x   3 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 .local
   drwxr-sr-x   3 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 .config
-  drwxr-sr-x 506 cs15lsp23   ieng6_cs15lsp23 40960 Apr 6 10:40 cache
+  drwxr-sr-x 506 cs15lsp23   ieng6_cs15lsp23 40960 Apr  6 10:40 cache
   drwxr-sr-x   1 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 09:55 ..
   -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  5 17:10 .zshrc
   -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  5 17:10 .zshenv
@@ -121,7 +121,7 @@
   After I ran ```ls -a```
   
   ```console
-  [cs15lsp23fw@ieng6-202]:~:42$ ls -a
+  [cs15lsp23fw@ieng6-202]:~:19$ ls -a
   ```
   <br> which resulted in
   
@@ -130,6 +130,17 @@
   ..  .bash_profile  .cache   .cshrc   .local  .login       .motd           .procmailrc  .zprofile  .zshrc   perl5
   ```
   <br> What this does is lists all files and directories, including hidden ones, in the current working directory.
+  
+  Another thing I did was create a new directory called "hello" with the command ```mkdir -v hello```  ,then I switched to the "hello" directory with ```cd hello``` and lastly I printed the absolute path of the working directory with ```pwd``` <br>
+  ```console
+    [cs15lsp23fw@ieng6-202]:~:20$ mkdir -v hello
+    mkdir: created directory ‘hello’
+    [cs15lsp23fw@ieng6-202]:~:21$ cd hello
+    [cs15lsp23fw@ieng6-202]:hello:22$ pwd
+    /home/linux/ieng6/cs15lsp23/cs15lsp23fw/hello
+    ```
+
+  
   
   
   
