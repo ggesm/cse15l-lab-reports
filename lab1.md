@@ -72,13 +72,13 @@
   Trying Some Commands! <br>
   Since you’re connected you can now try out some commands <br>
   Here are some specific useful commands to try: <br>
-    cd ~ <br>
-    cd <br>
-    ls -lat <br>
-    ls -a <br>
-    ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username <br>
-    cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ <br>
-    cat /home/linux/ieng6/cs15lsp23/public/hello.txt <br>
+    * ==cd ~==
+    * cd <br>
+    * ls -lat <br>
+    * ls -a <br>
+    * ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username <br>
+    * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ <br>
+    * cat /home/linux/ieng6/cs15lsp23/public/hello.txt <br>
   
   Here is an example of some of the commands being ran
   ![Image](Testing.png)
