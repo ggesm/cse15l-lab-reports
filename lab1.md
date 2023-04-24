@@ -126,13 +126,13 @@
   <br> which resulted in
   
   ```console
-  .bash_profile .config	 .local	        .modulesbegenv   .profile    .zshrc
-  .bashrc	      .cshrc	 .locallogin    .motd		         .zprofile   perl5
-  .cache 	     	.kshrc   .login         .promailrc       .zshenv
+  .bash_profile .config	 .local	         .modulesbegenv   .profile    .zshrc
+  .bashrc	      .cshrc	 .locallogin     .motd		        .zprofile   perl5
+  .cache 	     	.kshrc   .login          .promailrc       .zshenv
   ```
   <br> What this does is lists all files and directories, including hidden ones, in the current working directory.
   
-  Another thing I did was create a new directory called "hello" with the command ```mkdir -v hello```  ,then I switched to the "hello" directory with ```cd hello``` and lastly I printed the absolute path of the working directory with ```pwd``` <br>
+  Another thing I did was create a new directory called "hello" with the command ```mkdir -v hello```  ,then I switched to the "hello" directory with ```cd hello``` and lastly I printed the absolute path of the working directory with ```pwd``` which resulted in ```/home/linux/ieng6/cs15lsp23/cs15lsp23fw/hello``` <br>
   ```console
     [cs15lsp23fw@ieng6-202]:~:20$ mkdir -v hello
     mkdir: created directory ‘hello’
