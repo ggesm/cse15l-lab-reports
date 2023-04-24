@@ -93,7 +93,7 @@
   <br> 
   which resulted in 
   ```console
-  total 128
+  total 116
   -rw-r--r--   1 cs15lsp23fw ieng6_cs15lsp23  1337 Apr  6 10:55 .modulesbegenv
   -rw-------   1 cs15lsp23fw ieng6_cs15lsp23     0 Apr  6 10:55 .bash_history
   drwxr-s---   6 cs15lsp23fw ieng6_cs15lsp23   718 Apr  6 10:47 .
