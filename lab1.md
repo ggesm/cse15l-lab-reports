@@ -13,7 +13,6 @@
   3. Launch VScode and open a terminal (Ctrl or Command + `, or use the Terminal -> New Terminal menu option)
   4. After type in “ssh cs15lsp23zz@ieng6.ucsd.edu” and replace the zz with the letters in specific CSE 15L account 
   It should look like this bellow <br>
-  <br>
       ```console
       $ ssh cs15lsp23zz@ieng6.ucsd.edu
       ```
