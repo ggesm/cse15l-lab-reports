@@ -73,8 +73,8 @@
   Trying Some Commands! <br>
   Since you’re connected you can now try out some commands <br>
   Here are some specific useful commands to try: <br>
-* ```cd ~``` <br>
-* ```cd``` <br>
+* ```cd ~```  <br>
+* ```cd``` allows you to move between directories <br>
 * ```ls -lat``` <br>
 * ```ls -a``` <br>
 * ```ls <directory>``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is one of the other group members’ username <br>
