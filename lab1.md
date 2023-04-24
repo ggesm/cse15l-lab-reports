@@ -49,7 +49,7 @@
      
      ```console
       # Now on remote server
-      Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
+      Last login: Sun Apr  23 14:03:05 2023 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
       quota: No filesystem specified.
       Hello cs15lsp23zz, you are currently logged into ieng6-203.ucsd.edu
 
