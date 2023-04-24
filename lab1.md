@@ -123,14 +123,14 @@
   ```console
   [cs15lsp23fw@ieng6-202]:~:19$ ls -a
   ```
-  <br> which resulted in
+  <br> which listed all the files and directories, including the hidden ones, in the current working directory.
   
   ```console
   .bash_profile .config	 .local	         .modulesbegenv   .profile    .zshrc
-  .bashrc	      .cshrc	 .locallogin     .motd		        .zprofile   perl5
+  .bashrc	       .cshrc	 .locallogin     .motd		   .zprofile   perl5
   .cache 	     	.kshrc   .login          .promailrc       .zshenv
   ```
-  <br> What this does is lists all files and directories, including hidden ones, in the current working directory.
+  <br>
   
   Another thing I did was create a new directory called "hello" with the command ```mkdir -v hello```  ,then I switched to the "hello" directory with ```cd hello``` and lastly I printed the absolute path of the working directory with ```pwd``` which resulted in ```/home/linux/ieng6/cs15lsp23/cs15lsp23fw/hello``` <br>
   ```console
