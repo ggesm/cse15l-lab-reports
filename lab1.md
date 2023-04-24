@@ -127,7 +127,7 @@
   
   ```console
   .bash_profile .config	 .local	         .modulesbegenv   .profile    .zshrc
-  .bashrc	       .cshrc	 .locallogin     .motd		   .zprofile   perl5
+  .bashrc	      .cshrc	 .locallogin     .motd		   .zprofile   perl5
   .cache 	     	.kshrc   .login          .promailrc       .zshenv
   ```
   <br>
