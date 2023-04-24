@@ -23,11 +23,11 @@
   6. After you connect you will get a message that says 
       ```console
       <p> ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu <br>
-      The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. <br>
-      RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. <br>
-      Are you sure you want to continue connecting (yes/no/[fingerprint])? <p>
+      The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. 
+      RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+      Are you sure you want to continue connecting (yes/no/[fingerprint])?
       ```
-  **Make sure to type in yes** <br>
+  Make sure to type in yes <br>
         <br>
   5. After you type in Yes, a new line that says “Password: “ will appear and you will input the 
      password for your CSE 15L (Note: when type in your password it won’t show any characters moving 
