@@ -73,13 +73,13 @@
   Trying Some Commands! <br>
   Since you’re connected you can now try out some commands <br>
   Here are some specific useful commands to try: <br>
-* ```cd ~```  <br>
+* ```cd ~``` changes the current working directory to the user's home directory <br>
 * ```cd``` allows you to move between directories <br>
-* ```ls -lat``` <br>
-* ```ls -a``` <br>
+* ```ls -lat``` lists the files and directories in the current working directory in a long format <br>
+* ```ls -a``` lists all files and directories, including hidden ones, in the current working directory <br>
 * ```ls <directory>``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is one of the other group members’ username <br>
-* ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``` <br>
-* ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` <br>
+* ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``` copies the file "hello.txt" from the directory to the user's home directory <br>
+* ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` displays the contents of the file "hello.txt" located in the directory <br>
   
   Here is an example of some of the commands being ran
   ![Image](Testing.png) <br>
@@ -117,7 +117,7 @@
   -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  1721 Apr  5 17:10 .bashrc
   -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23   975 Apr  5 17:10 .bash_profile
   ```
-  <br> What ```ls -lat``` does is _____
+  <br> What ```ls -lat``` does is lists the files and directories in the current working directory in a long format, sorted by modification time, with the most recently modified files or directories appearing first.
   
   Then I ran ```ls -a```
   
