@@ -128,6 +128,7 @@
   ```console
   .   .bash_history  .bashrc  .config  .kshrc  .locallogin  .modulesbegenv  .pki         .profile   .zshenv  hello  wavelet
   ..  .bash_profile  .cache   .cshrc   .local  .login       .motd           .procmailrc  .zprofile  .zshrc   perl5
+  .bash_history	     .cache	  .kshrc	 .login	 .procmailrc  .zshenv
   ```
   <br> What this does is lists all files and directories, including hidden ones, in the current working directory.
   
