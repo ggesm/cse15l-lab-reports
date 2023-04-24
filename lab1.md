@@ -40,13 +40,14 @@
       Are you sure you want to continue connecting (yes/no/[fingerprint])? 
       Password:  
       ```
-  5. After you type in **yes**, a new line that says 
-  ```Password:  
+  5. After you type in **yes**, a new line that says will appear and you will input the 
+     password for your CSE 15
+  ```console
+  Password:  
   ``` 
-   <br> will appear and you will input the 
-     password for your CSE 15L <br> (Note: when type in your password it won’t show any characters moving 
-     for security reasons, so you can still type your password in and hit enter) If your password isn’t 
-     working then you should try to reset your password and see if that fixes the issue. <br>
+  <br> (Note: when type in your password it won’t show any characters moving 
+   for security reasons, so you can still type your password in and hit enter) If your password isn’t 
+   working then you should try to reset your password and see if that fixes the issue. <br>
       
   6. When you successfully input your password this should show up (below) and now your terminal is connected 
      to a computer in the CSE basement and any commands you run will run on that computer!
