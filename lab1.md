@@ -126,9 +126,9 @@
   <br> which resulted in
   
   ```console
-  .bash_profile	.config	.local	       .modulesbegenv   .profile    .zshrc
-  .bashrc	.cshrc	.locallogin   .motd		 .zprofile   perl5
-  .cache 		.kshrc   .login         .promailrc              .zshenv
+  .bash_profile	.config	 .local	        .modulesbegenv   .profile    .zshrc
+  .bashrc	      .cshrc	 .locallogin    .motd		         .zprofile   perl5
+  .cache 	    	.kshrc   .login         .promailrc       .zshenv
   ```
   <br> What this does is lists all files and directories, including hidden ones, in the current working directory.
   
