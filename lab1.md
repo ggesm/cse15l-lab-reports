@@ -143,9 +143,18 @@
 <br>
 Overall, I learned useful commands for the terminal to help my access and look for certain directories, files, etc.
 
-```css
-.code-block {
+```html
+<style>
+.my-code-block {
     background-color: #F0F0F0;
+    padding: 10px;
+}
+</style>
+
+```text
+int main() {
+    printf("Hello World!");
+    return 0;
 }
 ```
   
