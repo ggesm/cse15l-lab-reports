@@ -82,7 +82,45 @@
 * ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` <br>
   
   Here is an example of some of the commands being ran
-  ![Image](Testing.png)
+  ![Image](Testing.png) <br>
+  
+  In this example I first ran ```ls -lat``` <br>
+  
+  ```console
+  [cs15lsp23fw@ieng6-201]:~:41$ ls -lat
+  ```
+  <br> 
+  which resulted in 
+  ```console
+  total 128
+  -rw-r--r--   1 cs15lsp23fw ieng6_cs15lsp23  1339 Apr 24 10:50 .modulesbegenv
+  -rw-r-----   1 cs15lsp23fw ieng6_cs15lsp23     0 Apr 24 10:50 .motd
+  -rw-------   1 cs15lsp23fw ieng6_cs15lsp23   718 Apr 13 12:11 .bash_history
+  drwxr-s---   3 cs15lsp23fw ieng6_cs15lsp23  4096 Apr 13 11:09 wavelet
+  drwxr-S---   3 cs15lsp23fw ieng6_cs15lsp23  4096 Apr 13 11:06 .pki
+  drwxr-s---   9 cs15lsp23fw ieng6_cs15lsp23  4096 Apr 13 11:06 .
+  drwxr-sr-x 509 cs15lsp23   ieng6_cs15lsp23 40960 Apr 13 01:17 ..
+  drwxr-s---   2 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 11:47 hello
+  drwxr-sr-x   2 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 perl5
+  drwxr-sr-x   3 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 .local
+  drwxr-sr-x   3 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 .config
+  drwxr-sr-x   3 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 .cache
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23   290 Apr  5 17:10 .zshrc
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23   481 Apr  5 17:10 .zshenv
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  1931 Apr  5 17:10 .zprofile
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  1961 Apr  5 17:10 .profile
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23   837 Apr  5 17:10 .procmailrc
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23   431 Apr  5 17:10 .login
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23   155 Apr  5 17:10 .locallogin
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  1692 Apr  5 17:10 .kshrc
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  1931 Apr  5 17:10 .cshrc
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  1721 Apr  5 17:10 .bashrc
+  -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23   975 Apr  5 17:10 .bash_profile
+  ```
+  <br> What ```ls -lat``` does is _____
+  
+  
+ 
   
   
   
