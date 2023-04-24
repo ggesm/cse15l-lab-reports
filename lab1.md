@@ -140,7 +140,8 @@
     [cs15lsp23fw@ieng6-202]:hello:22$ pwd
     /home/linux/ieng6/cs15lsp23/cs15lsp23fw/hello
     ```
-
+<br>
+Overall, I learned useful commands for the terminal to help my access and look for certain directories, files, etc.
   
   
   
