@@ -77,7 +77,7 @@
 * ```cd``` <br>
 * ```ls -lat``` <br>
 * ```ls -a``` <br>
-* ```ls <directory>``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the abc is one of the other group members’ username <br>
+* ```ls <directory>``` where ```<directory>``` is ```/home/linux/ieng6/cs15lsp23/cs15lsp23abc```, where the ```abc``` is one of the other group members’ username <br>
 * ```cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/``` <br>
 * ```cat /home/linux/ieng6/cs15lsp23/public/hello.txt``` <br>
   
