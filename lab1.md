@@ -70,7 +70,8 @@
       ```
 
   
-  Trying Some Commands! <br>
+ **Trying Some Commands!** <br>
+ 
   Since you’re connected you can now try out some commands <br>
   Here are some specific useful commands to try: <br>
 * ```cd ~``` changes the current working directory to the user's home directory <br>
@@ -100,7 +101,7 @@
   drwxr-sr-x   2 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 perl5
   drwxr-sr-x   3 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 .local
   drwxr-sr-x   3 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 10:40 .config
-  drwxr-sr-x 506 cs15lsp23    ieng6_cs15lsp23 40960 Apr 6 10:40 cache
+  drwxr-sr-x 506 cs15lsp23   ieng6_cs15lsp23 40960 Apr 6 10:40 cache
   drwxr-sr-x   1 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  6 09:55 ..
   -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  5 17:10 .zshrc
   -rwxr-x---   1 cs15lsp23fw ieng6_cs15lsp23  4096 Apr  5 17:10 .zshenv
