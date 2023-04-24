@@ -18,7 +18,6 @@
       $ ssh cs15lsp23zz@ieng6.ucsd.edu
       ```
 <br>
-<span style="color:red">some **This is Red Bold.** text</span>
 
   6. After you connect you will get a message that says 
       <p> ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu <br>
