@@ -4,7 +4,7 @@
 **EdStem Post**
 
 
-What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?
+What environment are you using (computer, operating system, web browser, terminal/editor, and so on)? <br />
 Macbook Pro 2020, macOS Big Sur Ver 11.7.6, using VSCode for editor and terminal
 
 
