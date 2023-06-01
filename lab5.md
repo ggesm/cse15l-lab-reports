@@ -1,7 +1,9 @@
 **CSE 15L Lab Report 5**
 
 
-**EdStem Post** /p
+**EdStem Post**
+
+
 What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?
 Macbook Pro 2020, macOS Big Sur Ver 11.7.6, using VSCode for editor and terminal
 
