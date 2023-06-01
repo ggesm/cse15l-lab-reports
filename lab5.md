@@ -15,3 +15,7 @@ Macbook Pro 2020, macOS Big Sur Ver 11.7.6, using VSCode for editor and terminal
 
 
 **Reflection** <br />
+Something that I learned from my lab experience this quarter would be that it is very useful 
+to have TAs that can actively help you with any issues you face while completing the lab task. 
+I think that it is very important to ask questions when you are stuck because getting help, helps 
+you grow as a programmer.
