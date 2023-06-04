@@ -30,6 +30,17 @@ public class Calculator {
 }
 ```
 
+```
+gianag@MacBook-Pro desktop % javac Calculator.java
+gianag@MacBook-Pro desktop % java Calculator add 3 4
+Exception in thread "main" java.lang.NumberFormatException: For input string: "add"
+        at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+        at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+        at java.base/java.lang.Double.parseDouble(Double.java:792)
+        at Calculator.main(Calculator.java:4)
+gianag@MacBook-Pro desktop % 
+```
+
 **EdStem Post** <br />
 **What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?** <br />
 Macbook Pro 2020, macOS Big Sur Ver 11.7.6, using VSCode for editor and terminal
