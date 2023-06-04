@@ -1,6 +1,6 @@
 **CSE 15L Lab Report 5**
 
-Code: <br />
+**Code:** <br />
 ```java
 public class Calculator {
     public static void main(String[] args) {
