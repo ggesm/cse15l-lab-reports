@@ -31,7 +31,7 @@ public class Calculator {
 }
 ```
 
-Terminal: <br />
+**Terminal Output:** <br />
 ```
 gianag@MacBook-Pro desktop % javac Calculator.java
 gianag@MacBook-Pro desktop % java Calculator add 3 4
@@ -59,7 +59,7 @@ My code takes in two numbers and adds, subtracts, multiplies or divides them bas
 **TA Response** <br />
 If the order of your argument is suppose to be operator num1 num2 then you should look at the order you put for each argument. Also, if you divide a number by 0, would an error occur? What would happen if the user provided a operator that is not add, sub, mult or div, would that produce an error? If so, what could you do to fix it. 
 
-Fixed Code:
+**Fixed Code:** <br />
 ```java
 public class Calculator {
     public static void main(String[] args) {
@@ -85,16 +85,29 @@ public class Calculator {
                 } else {
                     System.out.println("Error: You cannot divide a number by 0.");
                 }
-            }
-
             } else {
                 System.out.println("Error: Invalid operator. Please choose from add, sub, mul, or div.");
-                return; 
+            }
         }
-
     }
 }
 ```
+**Terminal Output:** <br />
+```
+gianag@MacBook-Pro desktop % javac Calculator.java 
+gianag@MacBook-Pro desktop % java Calculator multiply 12 9
+Error: Invalid operator. Please choose from add, sub, mul, or div.
+gianag@MacBook-Pro desktop % java Calculator mul 12 9
+Result: 108.0
+gianag@MacBook-Pro desktop % java Calculator div 12 0
+Error: You cannot divide a number by 0.
+gianag@MacBook-Pro desktop % java Calculator sub 100 34
+Result: 66.0
+gianag@MacBook-Pro desktop % 
+```
+
+**Student Response:** <br />
+"Thank you I did not realize the order of my args was swapped and I was able to add an if statement to check if num2 equals 0 and to send an error message when it does and also I added an error message at the end if a different operator is given from the options."
 
 
 **Reflection** <br />
