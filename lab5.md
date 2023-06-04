@@ -1,5 +1,34 @@
 **CSE 15L Lab Report 5**
 
+```
+public class Calculator {
+    public static void main(String[] args) {
+        if (args.length == 3) {
+            double num1 = Double.parseDouble(args[0]);
+            double num2 = Double.parseDouble(args[2]);
+            String operator = args[1];
+            double result;
+
+            if (operator.equals("add")) {
+                result = num1 + num2;
+                System.out.println("Result: " + result);
+            } else if (operator.equals("sub")) {
+                result = num1 - num2;
+                System.out.println("Result: " + result);
+            } else if (operator.equals("mul")) {
+                result = num1 * num2;
+                System.out.println("Result: " + result);
+            } else if (operator.equals("div")) {
+                result = num1 / num2;
+                System.out.println("Result: " + result);
+            }
+
+
+        }
+
+    }
+}
+```
 
 **EdStem Post** <br />
 **What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?** <br />
