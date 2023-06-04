@@ -53,7 +53,48 @@ When I try to run my code I am getting a FloatingDecimal error and I don't know 
 
 
 **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.** <br /> 
+My code takes in two numbers and adds, subtracts, multiplies or divides them based on the given operator (add, sub, mult or div). When you run the code it should be operator num1 num2. But when I run the code it produces it an error.
 
+
+**TA Response** <br />
+If the order of your argument is suppose to be operator num1 num2 then you should look at the order you put for each argument. Also, if you divide a number by 0, would an error occur? What would happen if the user provided a operator that is not add, sub, mult or div, would that produce an error? If so, what could you do to fix it. 
+
+Fixed Code:
+```java
+public class Calculator {
+    public static void main(String[] args) {
+        if (args.length == 3) {
+            double num1 = Double.parseDouble(args[1]);
+            double num2 = Double.parseDouble(args[2]);
+            String operator = args[0];
+            double result;
+
+            if (operator.equals("add")) {
+                result = num1 + num2;
+                System.out.println("Result: " + result);
+            } else if (operator.equals("sub")) {
+                result = num1 - num2;
+                System.out.println("Result: " + result);
+            } else if (operator.equals("mul")) {
+                result = num1 * num2;
+                System.out.println("Result: " + result);
+            } else if (operator.equals("div")) {
+                if (num2 != 0) {
+                    result = num1 / num2;
+                    System.out.println("Result: " + result);
+                } else {
+                    System.out.println("Error: You cannot divide a number by 0.");
+                }
+            }
+
+            } else {
+                System.out.println("Error: Invalid operator. Please choose from add, sub, mul, or div.");
+                return; 
+        }
+
+    }
+}
+```
 
 
 **Reflection** <br />
