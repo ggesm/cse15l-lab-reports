@@ -56,7 +56,7 @@ When I try to run my code I am getting a FloatingDecimal error and I don't know 
 My code takes in two numbers and adds, subtracts, multiplies or divides them based on the given operator (add, sub, mult or div). When you run the code it should be operator num1 num2. But when I run the code it produces it an error.
 
 
-**TA Response** <br />
+**TA Response:** <br />
 If the order of your argument is suppose to be operator num1 num2 then you should look at the order you put for each argument. Also, if you divide a number by 0, would an error occur? What would happen if the user provided a operator that is not add, sub, mult or div, would that produce an error? If so, what could you do to fix it. 
 
 **Fixed Code:** <br />
